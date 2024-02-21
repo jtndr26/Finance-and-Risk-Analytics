@@ -28,6 +28,8 @@ Date
 - **Adjusted close price**: Stock price adjusted to include the annual returns (dividends) that the company offers to the shareholders
 - **Volume traded**: Number of stocks traded on the day
 
+![image](https://github.com/jtndr26/Finance-and-Risk-Analytics/assets/78334379/5ccda1fb-3369-416b-89b7-7f9b5af9e31b)
+
 
 ## Approach
 
