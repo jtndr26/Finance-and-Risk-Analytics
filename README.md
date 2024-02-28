@@ -1,3 +1,4 @@
+![PGD Data Science](https://github.com/jtndr26/Finance-and-Risk-Analytics/assets/78334379/ada09b2f-8cb1-40ef-9d15-507cc71f434c)
 
 # Finance & Risk Analytics
  - Predictive Analysis
